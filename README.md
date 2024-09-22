@@ -1,2 +1,2 @@
 # Game_Archer
- This is a turn-based battle game.
+ This is a 2D bullet hell game.
